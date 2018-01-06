@@ -1,0 +1,21 @@
+{
+  "name": "webcam-fun",
+  "version": "1.0.0",
+  "description": "Unreal webcam fun from JavaScript30 project.",
+  "main": "scripts.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Almira1612/Webcam-Fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Almira1612/Webcam-Fun/issues"
+  },
+  "homepage": "https://github.com/Almira1612/Webcam-Fun#readme"
+}
